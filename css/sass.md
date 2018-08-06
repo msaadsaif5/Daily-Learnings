@@ -46,5 +46,6 @@ nav li { display: inline-block; }
     @extend %message-shared;
     border-color: red;
 }
+```
 
 5.  Do math in CSS with basic operators like +,-,\*,/ and %
