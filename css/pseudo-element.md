@@ -1,8 +1,8 @@
-# CSS Psuedo-elements
+# CSS Pseudo-elements
 
-Psuedo element is used to style part of an element or to insert content before/after the content of an element. This way, you can define the style related common content in the CSS rather than the HTML
+Pseudo element is used to style part of an element or to insert content before/after the content of an element. This way, you can define the style related common content in the CSS rather than the HTML
 
-For example, if you have to use an overlay in on any element, you would typically define a div inside HTML element but by using pasuedo element in CSS we can define it like below:
+For example, if you have to use an overlay on any element, you would typically define a `div` inside HTML element but by using pseudo element in CSS we can define it like below:
 ```
     body#bg-img:after {
       content: '';
@@ -15,7 +15,7 @@ For example, if you have to use an overlay in on any element, you would typicall
       background: rgba(68, 68, 68, 0.7); 
       }
 ```
-The "after" is a psuedo element that will insert the content after body element that has id 'bg-img'. Content in this case is empty as we are just setting background overlay, but it could be an image or anything else. 
+The "after" is a pseudo element that will insert the specified content after body element that has id `bg-img`. Content in this case is empty as we are just setting background overlay, but it could be an image or anything else. 
 
 We can also use pseudo element to style the portion of element that is selected by user e.g. selected text inside `p` element like below:
 
