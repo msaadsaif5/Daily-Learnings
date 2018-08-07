@@ -10,4 +10,4 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # CSS
 * [Sass](css/sass.md)
-* [Pseudo-element](css/pseudo-element)
+* [Pseudo-element](css/pseudo-element.md)
