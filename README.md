@@ -6,7 +6,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 ---
 
 # Categories
-* [dotNet](#dotNet)
+* [dotNet](#dotNET)
 * [CSS](#css)
 
 # dotNET
