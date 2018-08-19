@@ -18,4 +18,4 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Pseudo-element](css/pseudo-element.md)
 
 # Gotchas
-* [Struct-IDisposable](gotchas/structDisposable.md)
+* [Struct-Mutability](gotchas/structMutability.md)

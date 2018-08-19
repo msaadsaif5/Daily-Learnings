@@ -1,4 +1,4 @@
-# Structs and IDisposable
+# Structs and Mutability
 
 Structs are value types that means their value gets copied each time it is passed to other variables or as method arguments.
 If a struct happens to contain a reference type such as a list then that obviously will be created on the heap, and pointer value will be 
