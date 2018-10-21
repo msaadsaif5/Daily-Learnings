@@ -13,6 +13,8 @@ A collection of succinct write-ups on small things I learn day to day across a v
 # dotNET
 * [Overflows](dotNet/csharpLang/overflow.md)
 * [Boxing & Unboxing](dotNet/csharpLang/boxingUnboxing.md)
+* [User Defined Type Conversions](dotNet/csharpLang/conversionOperators.md)
+
 
 # CSS
 * [Sass](css/sass.md)
