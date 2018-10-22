@@ -1,8 +1,6 @@
 # Daily-Learnings
 A collection of succinct write-ups on small things I learn day to day across a variety of languages and technologies.
 
-05 DLs and counting...
-
 ---
 
 # Categories
@@ -14,6 +12,8 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Overflows](dotNet/csharpLang/overflow.md)
 * [Boxing & Unboxing](dotNet/csharpLang/boxingUnboxing.md)
 * [User Defined Type Conversions](dotNet/csharpLang/conversionOperators.md)
+* [Weak References](dotNet/csharpLang/weakReference.md)
+
 
 
 # CSS
