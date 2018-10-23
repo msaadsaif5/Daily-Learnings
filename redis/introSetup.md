@@ -11,4 +11,4 @@ To set up Redis, just go to https://redis.io/download and download the latest st
  * `get name`
  * `del name`
 
- where `name` is the key and `john` is the value. Please go ahead and try all commands that can be seen here https://redis.io/commands
+ where `name` is the key and `john` is the value. Please go ahead and try all commands that can be seen here https://redis.io/commands 
