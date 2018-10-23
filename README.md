@@ -5,6 +5,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # Categories
 * [dotNet](#dotNET)
+* [Redis](#redis)
 * [CSS](#css)
 * [Gotchas](#gotchas)
 
@@ -14,7 +15,8 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [User Defined Type Conversions](dotNet/csharpLang/conversionOperators.md)
 * [Weak References](dotNet/csharpLang/weakReference.md)
 
-
+# Redis
+* [Intro and Setup](redis/introSetup.md)
 
 # CSS
 * [Sass](css/sass.md)
