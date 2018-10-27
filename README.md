@@ -14,6 +14,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Boxing & Unboxing](dotNet/csharpLang/boxingUnboxing.md)
 * [User Defined Type Conversions](dotNet/csharpLang/conversionOperators.md)
 * [Weak References](dotNet/csharpLang/weakReference.md)
+* [Unsafe Code](dotNet/csharpLang/unsafe.md)
 
 # Redis
 * [Intro and Setup](redis/introSetup.md)
