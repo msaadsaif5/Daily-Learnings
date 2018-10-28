@@ -39,7 +39,7 @@ public class Variance
 
 
         Action<Rectangle> recAction = ShapeAction; //contravariance
-        shapeAction(new Rectangle());
+        recAction(new Rectangle());
 
         //Following assigment is not possible implicitly due to no convariance
         //shapeAction = recAction; 
