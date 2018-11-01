@@ -8,6 +8,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Redis](#redis)
 * [CSS](#css)
 * [Gotchas](#gotchas)
+* [Blazor](#blazor)
 
 # dotNET
 * [Overflows](dotNet/csharpLang/overflow.md)
@@ -26,3 +27,6 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # Gotchas
 * [Struct-Mutability](gotchas/structMutability.md)
+
+# Blazor
+* [Setting Up](blazor/settingUp.md)
