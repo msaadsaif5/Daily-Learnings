@@ -30,3 +30,4 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # Blazor
 * [Setting Up](blazor/settingUp.md)
+* [Layouts](blazor/layouts.md)
