@@ -32,3 +32,4 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Setting Up](blazor/settingUp.md)
 * [Layouts](blazor/layouts.md)
 * [Dependency Injection](blazor/dependencyInjection.md)
+* [Routes](blazor/routes.md)
