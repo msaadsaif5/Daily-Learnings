@@ -16,6 +16,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [User Defined Type Conversions](dotNet/csharpLang/conversionOperators.md)
 * [Weak References](dotNet/csharpLang/weakReference.md)
 * [Unsafe Code](dotNet/csharpLang/unsafe.md)
+* [Fixed Statements](dotNet/csharpLang/fixed.md)
 * [Variance](dotNet/csharpLang/variance.md)
 
 # Redis
