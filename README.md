@@ -17,6 +17,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Weak References](dotNet/csharpLang/weakReference.md)
 * [Unsafe Code](dotNet/csharpLang/unsafe.md)
 * [Fixed Statements](dotNet/csharpLang/fixed.md)
+* [Stack Alloc](dotNet/csharpLang/stackalloc.md)
 * [Variance](dotNet/csharpLang/variance.md)
 
 # Redis
