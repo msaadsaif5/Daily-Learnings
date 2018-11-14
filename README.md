@@ -20,6 +20,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Stack Alloc](dotNet/csharpLang/stackalloc.md)
 * [Variance](dotNet/csharpLang/variance.md)
 * [Fixed Size Buffers](dotnet/csharpLang/fixedSizedBuffer.md)
+* [var](dotnet/csharpLang/var.md)
 
 # Redis
 * [Intro and Setup](redis/introSetup.md)
