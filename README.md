@@ -6,6 +6,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 # Categories
 * [dotNet](#dotNET)
 * [Redis](#redis)
+* [JavaScript](#javaScript)
 * [CSS](#css)
 * [Gotchas](#gotchas)
 * [Blazor](#blazor)
@@ -24,6 +25,9 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # Redis
 * [Intro and Setup](redis/introSetup.md)
+
+# JavaScript
+* [First-Class Functions](javaScript/firstClassFunctions.md)
 
 # CSS
 * [Sass](css/sass.md)
