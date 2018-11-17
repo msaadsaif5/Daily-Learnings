@@ -28,6 +28,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 
 # JavaScript
 * [First-Class Functions](javaScript/firstClassFunctions.md)
+* [JavaScript Objects](javaScript/objectCreation.md)
 * [Prototypes](javaScript/prototype.md)
 
 # CSS
