@@ -32,6 +32,9 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Prototypes](javaScript/prototype.md)
 * [Type Coercion](javaScript/typeCoercion.md)
 
+# React
+* [React Components](react/components.md)
+
 # CSS
 * [Sass](css/sass.md)
 * [Pseudo-element](css/pseudo-element.md)
