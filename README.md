@@ -22,6 +22,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Variance](dotNet/csharpLang/variance.md)
 * [Fixed Size Buffers](dotnet/csharpLang/fixedSizedBuffer.md)
 * [var](dotnet/csharpLang/var.md)
+* [extern](dotnet/csharpLang/extern.md)
 
 # Redis
 * [Intro and Setup](redis/introSetup.md)
