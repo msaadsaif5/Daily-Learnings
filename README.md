@@ -32,6 +32,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [JavaScript Objects](javaScript/objectCreation.md)
 * [Prototypes](javaScript/prototype.md)
 * [Type Coercion](javaScript/typeCoercion.md)
+* [Loops](javaScript/loops.md)
 
 # React
 * [React Components](react/components.md)
