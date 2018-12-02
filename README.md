@@ -10,6 +10,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [CSS](#css)
 * [Gotchas](#gotchas)
 * [Blazor](#blazor)
+* [Miscellaneous](#miscellaneous)
 
 # dotNET
 * [Overflows](dotNet/csharpLang/overflow.md)
@@ -52,3 +53,7 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Dependency Injection](blazor/dependencyInjection.md)
 * [Routes](blazor/routes.md)
 * [Components](blazor/components.md)
+
+
+# Miscellaneous
+* [Single Vs. Double Dispatcher](miscellaneous/singleMultipleDispatcher.md)
