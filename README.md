@@ -30,12 +30,12 @@ A collection of succinct write-ups on small things I learn day to day across a v
 * [Intro and Setup](redis/introSetup.md)
 
 # JavaScript
-* [First-Class Functions](javaScript/firstClassFunctions.md)
-* [JavaScript Objects](javaScript/objectCreation.md)
-* [Prototypes](javaScript/prototype.md)
-* [Type Coercion](javaScript/typeCoercion.md)
-* [Loops](javaScript/loops.md)
-* [Variables](javaScript/variables.md)
+* [First-Class Functions](javascript/firstClassFunctions.md)
+* [JavaScript Objects](javascript/objectCreation.md)
+* [Prototypes](javascript/prototype.md)
+* [Type Coercion](javascript/typeCoercion.md)
+* [Loops](javascript/loops.md)
+* [Variables](javascript/variables.md)
 
 # React
 * [React Components](react/components.md)
