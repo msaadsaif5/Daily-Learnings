@@ -1,3 +1,3 @@
 # Prototypes in JavaScript
 
-TODO
+//TODO
