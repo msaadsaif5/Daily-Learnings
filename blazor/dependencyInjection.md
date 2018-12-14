@@ -15,9 +15,9 @@ Service can be injected in a component by using `@inject` keyword
 
 ## Example
 
- ```csharp
- public interface IOrderService {...}
- public class OrderService : IOrderService {...}
+```csharp
+public interface IOrderService {...}
+public class OrderService : IOrderService {...}
 
 ..
 //startup.cs
